@@ -1,6 +1,7 @@
-### Hi there 👋
+#### Hi there 👋
 ### I am Shravani
-😄 Pronouns: She/Her
+#### 😄 Pronouns: She/Her
+#### A hard-working undergraduate student pursuing Bachelors in Technology in Computer Science and Engineering. Excited to explore the oppurtunities in the field of Computer Science.
 
 <!--
 **Chshravani/chshravani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
